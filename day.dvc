@@ -1,0 +1,5 @@
+outs:
+- md5: b1ec63acae065c8920903d5eaeb21e68.dir
+  size: 1449572299
+  nfiles: 12000
+  path: day
